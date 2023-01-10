@@ -94,7 +94,7 @@ public class ex03_else_if {
 		
 		}else if(mod == 5) {
 			weekName = "목";
-		
+	
 		}else  {
 			weekName = "금";
 		}

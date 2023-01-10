@@ -72,7 +72,7 @@ public class ex04_switch {
 
 //		수,우,미,양,가,잘못된점수
 		
-		int score = 50;
+		int score = 100;
 		
 		if(score<0|score>100) {
 			System.out.println("잘못된점수");
