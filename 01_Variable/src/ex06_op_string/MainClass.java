@@ -43,7 +43,7 @@ public class MainClass {
 	}
 	public static void main(String[] args) {
 
-		ex03();
+		ex01();
 	}
 
 }
